@@ -1,0 +1,7 @@
+.lock
+
+.db
+
+__pycache__
+
+.db-shm
